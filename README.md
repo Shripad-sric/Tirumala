@@ -1,3 +1,3 @@
 # Tirumala
-First Repository
+First Repository.
 Author - Shripad Bhatlawande
